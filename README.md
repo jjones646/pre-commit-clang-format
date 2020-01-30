@@ -5,7 +5,7 @@
 ## Using clang-format with pre-commit
 
 ```yaml
--   repo: git://github.com/doublify/pre-commit-clang-format
+-   repo: https://github.com/jjones646/pre-commit-clang-format
     rev: master
     hooks:
     -   id: clang-format
